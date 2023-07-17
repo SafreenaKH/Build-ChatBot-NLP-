@@ -1,3 +1,12 @@
+### Dialogflow-based chatbot for food business 
+
+Tools used : Chatgpt , sql, python, FastAPI (backend) , Dialogflow,db:mysql
+
+Building Mira chatBot
+
+
+
+
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
